@@ -16,17 +16,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/faahim/happy-birthday.git"
+    "url": "git+https://github.com/ADHAM-KHAIRY/mickey.github.io.git"
   },
   "keywords": [
     "Happy",
     "Birthday"
   ],
-  "author": "Afiur Rahman Fahim",
+  "author": "adham",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/faahim/happy-birthday/issues"
+    "url": "mafesh"
   },
-  "homepage": "https://github.com/faahim/happy-birthday#readme",
+  "homepage": "",
   "dependencies": {}
 }
